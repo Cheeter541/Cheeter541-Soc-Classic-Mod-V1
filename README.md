@@ -10,4 +10,4 @@ Current new features in the new version:
 1. Fly with Frog backpack
 2. Able to trade loot items and Champ bag
 3. Adding more tradeable items
-Notice: Picking up apples in any way will give you a maintenance, BUT you aren't banned, just delete the mod and download a version of classic without apple spawner mod, login to the account with maintenance, and when you login you'll have 0 apples and no maintenance. After that, you can just download the mod with apples again. The only real way you can get banned with this mod is by using the actual mod menu. 
+Notice: Picking up apples in any way will give you a maintenance, BUT you aren't banned, just delete the mod and download a version of classic without apple spawner mod, login to the account with maintenance, and when you login you'll have 0 apples and no maintenance. After that, you can just download the mod with apples again. The only real way you can get banned with this mod is by using the actual mod menu.
