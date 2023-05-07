@@ -1,6 +1,6 @@
 Warning: Sell all of your apples before you download the mod!
 Credits to hiyall for teaching me, none of this would've been able to be possible without him
-https://www.mediafire.com/file/ed6fmnalc1qrl47/School+of+Chaos+Classic+-+Mod+Menu+v1.1+(1).apk/file
+https://www.mediafire.com/file/ed6fmnalc1qrl47/Dr._NaN_SoC_Classic_V1.apk/file
 Features:
 (1) Apple spawns items
 (2) Go to elite zone and war room lvl 1 no clan
