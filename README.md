@@ -1,6 +1,6 @@
 Warning: Sell all of your apples before you download the mod!
 Credits to hiyall for teaching me, none of this would've been possible without him
-https://www.mediafire.com/file/ed6fmnalc1qrl47/Dr._NaN_SoC_Classic_V1.apk/file
+https://www.mediafire.com/file/ed6fmnalc1qrl47/Cheeter541_SoC_Classic_V1.apk/file
 Features:
 (1) Pressing use on Apple spawns items
 (2) Able to go to the Elite Zone and the War Room at level 1 and without a clan
